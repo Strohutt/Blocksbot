@@ -1,0 +1,7 @@
+asyncio
+py-cord
+aiosqlite
+python-dotenv
+random
+datetime
+io
